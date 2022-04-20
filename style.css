@@ -87,10 +87,10 @@
     }
     
     .titolo-piano-business{
-        width: 960px;
+        width: 800px;
         height: 200px;
         margin: auto;
-        background: #83BD75;
+        background: #e31f06;
         color: black;
         padding-top: 50px;
         
@@ -98,9 +98,9 @@
     }
 
     .radio-div{
-        width: 960px;
+        width: 800px;
         height: 100px;
         margin: auto;
-        background: #B4E197;
+        background: #4545e7;
         border: 1px solid black;
     }
