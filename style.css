@@ -31,31 +31,6 @@
 
     .col-header-large{
         flex-grow: 2;
-        text-align: center;
-        
-        
+        text-align: center;     
     }
 
-.jumbotron{
-    width: 100%;
-    border: 1px solid black;
-    background: #B4D0E7;
-}
-
-.h1-jumbo{
-    width: 755px;
-    font-size: 60px;
-    margin: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    border: 1px solid black;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.col-jumbo-small{
-
-}
-
-.col-jumbo-large{
-    
-}
