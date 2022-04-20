@@ -104,3 +104,15 @@
         background: #4545e7;
         border: 1px solid black;
     }
+    .row-piano-business{
+        display: flex;
+    }
+
+    .col-piano-business{
+        width: 800px;
+        height: 600px;
+        background: #baa3ae;
+        border: 1px solid black;
+        display: flex;
+        justify-items: space-between;
+    }
