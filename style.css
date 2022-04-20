@@ -67,6 +67,25 @@
         top: 0;
         
     }
+
+    .row-jumbo{
+        display: flex;
+        position: relative;
+    }
+
+    .col-jumbo{
+        width: 100px;
+        height: 200px;
+        background: #4545e7;
+        border: 1px solid black;
+        margin: auto;
+        position: relative;
+        color: black;
+        font-size: 10px;
+        flex-grow:3;
+
+    }
+
     .piano-business-sfondo
     {
         width: 100%;
@@ -106,6 +125,7 @@
     }
     .row-piano-business{
         display: flex;
+        gap: 2rem;
     }
 
     .col-piano-business{
@@ -113,6 +133,4 @@
         height: 600px;
         background: #baa3ae;
         border: 1px solid black;
-        display: flex;
-        justify-items: space-between;
     }
