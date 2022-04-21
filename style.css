@@ -5,9 +5,9 @@
     }
 
     .d-flex{
-        display: flex;
-        flex-grow: 1;
-        
+    display: flex;
+    flex-grow: 1;
+    
     }
 
     .col-header-small {
@@ -91,7 +91,9 @@
     }
 
     .btn{
-        padding: 2rem 2rem;
+        padding: 3rem 3rem;
+        font-size: 20px;
+        text-align: center;
 
     }
 
@@ -133,6 +135,7 @@
     .row-piano-business{
         display: flex;
         gap: 2rem;
+        position: relative;
     }
 
     .col-piano-business{
@@ -142,9 +145,55 @@
     }
 
     .col-piano-business-large{
-        width: 800px;    
-        background: #baa3ae;
-        border: 1px solid black
-        
+    width: 800px;    
+    background: #baa3ae;
+    border: 1px solid black
+    
+    }
 
+
+
+    .card {
+        border: 1px solid;
+        padding: 3rem;
+        }
+    .row {
+        display: flex;
+        }
+
+    .row-wrap {
+        flex-wrap: wrap;
+    }
+
+    .gap-2 {
+        gap: 2rem;
+    }
+    
+    .gap-3 {
+        gap: 3rem;
+    }
+
+
+
+    .row .col {
+        flex-grow: 1;
+    }
+    
+    .row .col-3 {
+        flex-basis: calc(33.3% - 2rem);
+    }
+    
+    .row .col-4 {
+        flex-basis: calc(25% - 2rem);
+    }
+    
+    .row .col-wide {
+        flex-basis: 60%;
+    }
+    
+    .row .col-small {
+        flex-basis: 40%;
+    }
+    .img{
+        width: 100%;
     }
