@@ -329,11 +329,35 @@
     
 }
 .btn-sez7{
-    padding: 0.7rem 4rem;
+    padding: 0.7rem 2.5rem;
     background: white;
     border: none;
+    cursor: pointer;
 }
 
 .p-120{
     padding: 120px;
+}
+
+/* sezione 8 */
+
+.titolo-sez8{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.hr{
+    padding: 3rem 0rem;
+
+}
+
+/* footer */
+.colore-font-footer{
+    color: white;
+    list-style: none;
+}
+.bg-footer{
+    background: black;
+    margin-bottom: -100px;
 }
