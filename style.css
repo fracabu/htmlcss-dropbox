@@ -9,6 +9,8 @@
     flex-grow: 1;
     position: relative;
     position: fixed;
+    background: white;
+    width: 100%;
     
     }
 
