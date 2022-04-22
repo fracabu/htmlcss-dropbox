@@ -78,7 +78,9 @@
             flex-basis: 0;
             border: 1px dashed rgb(6, 226, 6);
         }
-    
+        .col-small{
+            width: 30%;
+        }
         .img-w-100{
             width: 100%;
         }
