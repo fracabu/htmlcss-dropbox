@@ -318,3 +318,22 @@
     text-align: center;
 
 }
+
+
+
+/* sezione 7 */
+.titolo-sez7{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.btn-sez7{
+    padding: 0.7rem 4rem;
+    background: white;
+    border: none;
+}
+
+.p-120{
+    padding: 120px;
+}
