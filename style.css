@@ -206,8 +206,11 @@
         cursor: pointer;
     }
 
-    .par-sez-jumbo{
+    .box-titolo-jumbo{
         padding: 2rem 2rem;
+    }
+    .par-sez-jumbo{
+        padding: 1rem 2rem;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
     }
@@ -219,7 +222,7 @@
 
     }
     .btn-blue{
-        padding: 0rem 2rem;
+        padding: 1rem 2rem;
 
     }
 
@@ -227,4 +230,11 @@
         padding: 2rem 2rem;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
+    }
+    .icona-jumbo{
+        padding: 3rem 2rem;
+    }
+
+    .freccia-jumbo{
+        width: 30px;
     }
