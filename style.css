@@ -205,3 +205,20 @@
         background: white;
         cursor: pointer;
     }
+
+    .par-sez-jumbo{
+        padding: 2rem 2rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+    }
+    .btn-sez-jumbo{
+        padding: 0.5rem;
+        background: blue;
+        cursor: pointer;
+        color: white;
+
+    }
+    .btn-blue{
+        padding: 0rem 2rem;
+
+    }
