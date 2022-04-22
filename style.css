@@ -240,7 +240,7 @@
         width: 30px;
     }
     
-    .gap-col-sez2{
+    .gap-col{
         gap: 3rem;
     }
 
@@ -296,4 +296,25 @@
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+}
+
+.p-3{
+    padding: 3rem 0rem;
+    display: inline-block;
+}
+
+.p-2{
+    padding: 2rem 0rem;
+}
+
+.img-user{
+    width: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+.img-share{
+    width: 15px;
+    text-align: center;
+
 }
