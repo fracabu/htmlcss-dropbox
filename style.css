@@ -115,7 +115,40 @@
         .p-2{
             padding: 2rem;
         }
-    
+
+        /* sezione 4 */
+        .img-sez4{
+            width: 100%;
+        }
+
+        .titolo-sez4{
+            font-size: 16px;
+            font-family: arial;
+            font-weight: bold;
+        }
+        .subtitle-sez4{
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 20px;
+        }
+        .par-sez4{
+            padding-top: 2rem;
+        }
+
+    /*sezione 5 */
+        .testo-sez5{
+            font-size: 33px;
+            font-family: arial;
+            font-weight: bold;
+    }
+        .link-sez5{
+            padding-top: 3rem;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+
+
+    /* sezione 6 */
         .square-container{
             display: flex;
             flex-wrap: wrap;
