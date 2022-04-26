@@ -45,7 +45,7 @@
 
     .btn-sez-header{
         padding: 0.5rem 1rem;
-        background: blue;
+        background: #0061FF;
         cursor: pointer;
         color: white;
         border: none;
@@ -64,7 +64,7 @@
             margin: 0 auto;
             position: relative;
             /* solo per debug  */
-            border: 1px dashed rgb(89, 24, 203);
+            /* border: 1px dashed rgb(89, 24, 203); */
         
         }
     
@@ -75,7 +75,7 @@
         .section {
             padding: 40px 0;
             /* bordo solo per debug */
-            border: 1px dashed red;
+            /* border: 1px dashed red; */
         }
     
         .bg-lightblue{
@@ -158,8 +158,8 @@
         width: 50%;
         height: calc(100vw / 6);
         /* solo per debug */
-        min-height: 50px;
-        border: 1px solid black;
+        /* min-height: 50px;
+        border: 1px solid black; */
     }
     
     .bg-bourdeaux{
@@ -261,9 +261,10 @@
     }
     .btn-sez-jumbo{
         padding: 0.5rem;
-        background: blue;
+        background: #0061FF;
         cursor: pointer;
         color: white;
+        border: none;
 
     }
     .btn-blue{
